@@ -1,0 +1,5 @@
+./src/lib
+./src/build
+*.so
+*.log
+
